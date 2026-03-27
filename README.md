@@ -11,6 +11,9 @@ A motivated and detail-oriented aspiring software developer with a strong founda
 ![](https://github-readme-stats.vercel.app/api?username=ShivamaniAngali&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ShivamaniAngali&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamaniAngali&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<!-- Replace your old broken link with this -->
+![My GitHub Stats](github-contribution-grid-snake.svg) 
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ShivamaniAngali&icon=0&color=0)](https://visitcount.itsvg.in)
